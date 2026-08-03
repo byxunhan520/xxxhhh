@@ -1,6 +1,3 @@
---!strict
---!native
---!optimize 2
 
 local Players = game:GetService("Players")
 local LocalPlayer = Players.LocalPlayer
@@ -857,7 +854,7 @@ MenuGroup:AddDropdown("DPIDropdown", {
 		Library:SetDPIScale(DPI)
 	end,
 })
-UtilityBox:AddLabel('TheHunterSolo1 - 所有者与主程序员',true)
+UtilityBox:AddLabel('XUNHAN - 所有者与主程序员',true)
 
     UtilityBox:AddButton({
         Text = "卸载脚本",
@@ -1255,13 +1252,13 @@ MenuGroup:AddDropdown("DPIDropdown", {
 		Library:SetDPIScale(DPI)
 	end,
 })
-UtilityBox:AddLabel('TheHunterSolo1 - 所有者与主程序员',true)
+UtilityBox:AddLabel('XUNHAN - 所有者与主程序员',true)
 
 
 -- Sets the draggable label visibility
 
-UtilityBox:AddLabel('rhyan57 - Doors通知创建者',true)
-UtilityBox:AddLabel('FireBacon - 透视库创建者',true)
+UtilityBox:AddLabel('XUNHAN - 通知创建者',true)
+UtilityBox:AddLabel('XUNHAN - 透视库创建者',true)
     UtilityBox:AddButton({
         Text = "卸载脚本",
         Func = function()
@@ -5844,15 +5841,15 @@ MenuGroup:AddDropdown("DPIDropdown", {
 		Library:SetDPIScale(DPI)
 	end,
 })
-UtilityBox:AddLabel('TheHunterSolo1 - 所有者与主程序员',true)
+UtilityBox:AddLabel('XUNHAN - 所有者与主程序员',true)
 
-UtilityBox:AddLabel('nahhthatscrazy - 方法1速度绕过',true)
+UtilityBox:AddLabel('XUNHAN - 方法1速度绕过',true)
 
 
 -- Sets the draggable label visibility
 
-UtilityBox:AddLabel('rhyan57 - Doors通知创建者',true)
-UtilityBox:AddLabel('FireBacon - 透视库创建者',true)
+UtilityBox:AddLabel('XUNHAN - 通知创建者',true)
+UtilityBox:AddLabel('XUNHAN - 透视库创建者',true)
     UtilityBox:AddButton({
         Text = "卸载脚本",
         Func = function()
